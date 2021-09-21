@@ -1,0 +1,2 @@
+# Quantitative_Modelling_of_OpRisk_and_Insurance_Analytics
+STAT0020 Module @UCL
