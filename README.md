@@ -14,7 +14,7 @@ An example of LDA with Poisson frequency- Gamma severity is the following: <br /
 An example of LDA with Poisson frequency- Stable (Levy) severity is the following: <br />
 <br />
 <p align="center">
-<img src="LDA-Poisson_Stable.PNG", width=500> <br />
+<img src="LDA-Poisson_Stable(Levy).PNG", width=500> <br />
 </p>
 <br />
 An example of Monte Carlo Convolution is the following: <br />
